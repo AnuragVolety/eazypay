@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "542287170283",
+    "firebase_url": "https://ocrnumberplatedetection.firebaseio.com",
+    "project_id": "ocrnumberplatedetection",
+    "storage_bucket": "ocrnumberplatedetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542287170283:android:aac677af739291ab",
+        "android_client_info": {
+          "package_name": "com.example.vanur.ocrnumberplatedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542287170283-isf4rgj0ej9ehti85it5gssa9du3ck1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vanur.ocrnumberplatedetection",
+            "certificate_hash": "57ac3c6f4b6d093316ca72d2960d7ba96560eb47"
+          }
+        },
+        {
+          "client_id": "542287170283-83v3trlp1g6m0vofmrei1rlipepvea39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2aOFygcRy7nd57EXN3bpwFwrqS2mfyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542287170283-83v3trlp1g6m0vofmrei1rlipepvea39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
